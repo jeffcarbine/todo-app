@@ -1,0 +1,6 @@
+nodue_modules/
+bower_components/
+build/
+.DS_Store
+*.db
+*.log
